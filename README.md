@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer;Full+Stack+Engineer;Building+Scalable+Web+Apps;Turning+Ideas+Into+Reality" />
+</p>
+
+
 # 💫 About Me:
 🚀 Top-Rated Web Developer | 4+ Years of Experience | Full-Stack Engineer<br><br>I’m a passionate full-stack web developer with 4+ years of experience building high-performance, scalable, and user-centric web applications for startups, agencies, and global clients.<br><br>I specialize in crafting custom solutions — from modern frontends to robust backend systems — focusing on clean architecture, performance, and real-world usability.
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Sahil+Nayak;Passionate+Full+Stack+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Scalable+Products" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="80%" />
 </p>
 
 

@@ -1,13 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Sahil+Nayak;Passionate+Full+Stack+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Scalable+Products" />
+</p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Sahil+Nayak+👋;Passionate+Full+Stack+Developer;Crafting+Modern+Web+Experiences;Turning+Ideas+Into+Scalable+Products" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%"/>
-
-</div>
 
 
 

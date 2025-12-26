@@ -57,10 +57,6 @@ I specialize in crafting custom solutions — from modern frontends to robust ba
 
 
 <!-- FOOTER -->
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=codersahilnayakk&color=12" />
-</p>
-
 <br/>
 
 <h2 align="center">💰 Support</h2>

@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%20I'm%20Sahil%20Nayak&fontSize=40&fontAlignY=35" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;4%2B+Years+Experience;Building+Scalable+Web+Apps;Turning+Ideas+Into+Products" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="80%" />
+</p>
 
 
 # 💫 About Me:

@@ -52,15 +52,14 @@ I specialize in crafting custom solutions — from modern frontends to robust ba
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codersahilnayakk&theme=radical&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=codersahilnayakk&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codersahilnayakk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=codersahilnayakk&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersahilnayakk&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersahilnayakk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<br/>
 
 <!-- FOOTER -->
 <p align="center">

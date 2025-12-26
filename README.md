@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;4%2B+Years+Experience;Building+Scalable+Web+Apps;Turning+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;4%2B+Years+Experience;Building+Scalable+Web+Apps;Turning+Ideas+Into+Products" />
 </p>
 
 <p align="center">
